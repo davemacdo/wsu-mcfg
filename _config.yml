@@ -1,0 +1,7 @@
+title: WSU Music Composition for Film and Games
+#logo: /assets/img/logo.png
+description: handy links and resources
+show_downloads: false
+theme: jekyll-theme-minimal
+kramdown: 
+    toc_levels: 1..1
