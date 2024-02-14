@@ -29,3 +29,12 @@ I will continue adding links to this list as they become relevant. If you have a
 ### Cubase
 
 - [Scoring to picture in Cubase](https://youtu.be/CqQDWLGLRUU)
+
+## User forums
+
+These are good places to search, but also to ask questions of other helpful randos on the Internet. When asking for help, be sure to identify your OS and version, DAW and version, plugin and version, the exact text of any error messages, and possibly a screenshot. 
+
+- [VI Control forum](https://vi-control.net/community/) - Note: "VI" in the name of this forum is "virtual instruments"
+- [Virtual Orchestration (Facebook group)](https://www.facebook.com/groups/1475801049334232)
+- [Official Reaper forum](https://forum.cockos.com/)
+- [Official Steinberg (Cubase, Dorico, etc.) forum](https://forums.steinberg.net/)
