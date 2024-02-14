@@ -20,6 +20,7 @@ I will continue adding links to this list as they become relevant. If you have a
 
 - [Scoring to picture in Reaper](https://youtu.be/n2kuagzvCIc)
 - [Reaper Mania channel](https://www.youtube.com/@REAPERMania)
+- [How to Render an MP4 in Reaper](https://youtu.be/rNxubBRWAAA) (Thanks, Ethan G.!)
 
 ### Logic
 
