@@ -21,15 +21,21 @@ I will continue adding links to this list as they become relevant. If you have a
 - [Scoring to picture in Reaper](https://youtu.be/n2kuagzvCIc)
 - [Reaper Mania channel](https://www.youtube.com/@REAPERMania)
 - [How to Render an MP4 in Reaper](https://youtu.be/rNxubBRWAAA) (Thanks, Ethan G.!)
+- [Automate Anything Quickly in Reaper](https://youtu.be/ckjl-rpzDPA)
+- [Humanize MIDI in Reaper](https://youtu.be/5SIQVN6pq2I)
 
 ### Logic
 
 - [Scoring to picture in Logic Pro X](https://youtu.be/_1XkBHT_6Nk)
 - [Beatmap in Logic Pro](https://youtu.be/fXDiW1tfSlI)
+- [Automation in Logic Pro - Everything You Need to Know](https://youtu.be/3dhnzDYS930)
+- [Humanize Your MIDI Parts in Logic Pro X](https://www.youtube.com/watch?v=RDfe0EBQR3U)
 
 ### Cubase
 
 - [Scoring to picture in Cubase](https://youtu.be/CqQDWLGLRUU)
+- [What is Automation and How to Use It (Cubase official)](https://youtu.be/vPUn-kn-bcA)
+- [How to Randomize MIDI Note Velocity in Cubase 12](https://youtu.be/eLGveWLT9cI)
 
 ## User forums
 
