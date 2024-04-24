@@ -37,6 +37,13 @@ I will continue adding links to this list as they become relevant. If you have a
 - [What is Automation and How to Use It (Cubase official)](https://youtu.be/vPUn-kn-bcA)
 - [How to Randomize MIDI Note Velocity in Cubase 12](https://youtu.be/eLGveWLT9cI)
 
+### FMOD Studio
+
+- [Learn FMOD (Official documentation)](https://www.fmod.com/learn)
+- [FMOD | Designing Interactive Music | Vertical & Horizontal Sequencing (Scott Game Sounds)](https://youtu.be/SMv3ynVGz2g)
+- [Crossfading Transitions](https://youtu.be/tCni0qxnBFU)
+- [Crossfading Layers](https://youtu.be/hHAcDIGcEkU)
+
 ## User forums
 
 These are good places to search, but also to ask questions of other helpful randos on the Internet. When asking for help, be sure to identify your OS and version, DAW and version, plugin and version, the exact text of any error messages, and possibly a screenshot. 
