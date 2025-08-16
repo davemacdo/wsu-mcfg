@@ -40,7 +40,7 @@ I will continue adding links to this list as they become relevant. If you have a
 ### FMOD Studio
 
 - [Learn FMOD (Official documentation)](https://www.fmod.com/learn)
-- [FMOD | Designing Interactive Music | Vertical & Horizontal Sequencing (Scott Game Sounds)](https://youtu.be/SMv3ynVGz2g)
+- [Vertical & Horizontal Sequencing (Scott Game Sounds)](https://youtu.be/SMv3ynVGz2g)
 - [Crossfading Transitions](https://youtu.be/tCni0qxnBFU)
 - [Crossfading Layers](https://youtu.be/hHAcDIGcEkU)
 
