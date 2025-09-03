@@ -37,6 +37,14 @@ I will continue adding links to this list as they become relevant. If you have a
 - [What is Automation and How to Use It (Cubase official)](https://youtu.be/vPUn-kn-bcA)
 - [How to Randomize MIDI Note Velocity in Cubase 12](https://youtu.be/eLGveWLT9cI)
 
+### Pro Tools
+
+- [Pro Tools: Set up sound for Picture](https://youtu.be/P1ofrGd0M0s) - (Note: video covers sound for video, not specifically music)
+
+### Studio One
+
+- [Studio One 6 - The Video Track - Everything You Need to Know](https://youtu.be/-iGc_EDrCxo)
+
 ### FMOD Studio
 
 - [Learn FMOD (Official documentation)](https://www.fmod.com/learn)
